@@ -4,15 +4,19 @@
     <meta charset="UTF-8">
     <title>Cuble</title>
     <style>
-        body {
+        html, body, canvas {
             width: 100%;
             height: 100%;
             margin: 0;
             padding: 0;
         }
     </style>
+    <script src="node_modules/three/build/three.js"></script>
+    <script src="node_modules/modulin-fetch/dist/modulin-fetch.amd.min.js"></script>
+    <script src="node_modules/modulin-di/dist/modulin-di.min.js"></script>
+    <script>modulinFetch.load('src/', 'boot');</script>
 </head>
 <body>
-
+    <canvas id="canvas"></canvas>
 </body>
 </html>

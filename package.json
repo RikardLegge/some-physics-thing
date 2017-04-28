@@ -4,5 +4,10 @@
   "main": "index.html",
   "repository": "http://git.legge.se/legge/cuble.git",
   "author": "Rikard Legge <rikard.legge@gmail.com>",
-  "license": "Rikard Legge"
+  "license": "Rikard Legge",
+  "dependencies": {
+    "modulin-di": "^1.0.1",
+    "modulin-fetch": "^1.0.1",
+    "three": "^0.85.2"
+  }
 }
