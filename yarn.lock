@@ -2,15 +2,15 @@
 # yarn lockfile v1
 
 
-modulin-di@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/modulin-di/-/modulin-di-1.0.1.tgz#7fcce10a0e970b084043ddc03b090f3e402ccbd1"
+modulin-di@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/modulin-di/-/modulin-di-1.0.4.tgz#3737a47ccf96646bcc6360dec82dde85d174a4ae"
   dependencies:
     modulin-fetch "^1.0.1"
 
-modulin-fetch@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/modulin-fetch/-/modulin-fetch-1.0.1.tgz#57f64869c79ca196b462d30c1c8b7f79273236f5"
+modulin-fetch@^1.0.1, modulin-fetch@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/modulin-fetch/-/modulin-fetch-1.0.3.tgz#afad12b289a63c94f87f4120f03e65934353e304"
 
 three@^0.85.2:
   version "0.85.2"

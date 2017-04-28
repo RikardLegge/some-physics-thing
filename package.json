@@ -6,8 +6,8 @@
   "author": "Rikard Legge <rikard.legge@gmail.com>",
   "license": "Rikard Legge",
   "dependencies": {
-    "modulin-di": "^1.0.1",
-    "modulin-fetch": "^1.0.1",
+    "modulin-di": "^1.0.4",
+    "modulin-fetch": "^1.0.3",
     "three": "^0.85.2"
   }
 }
