@@ -1,0 +1,8 @@
+{
+  "name": "Cuble",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "http://git.legge.se/legge/cuble.git",
+  "author": "Rikard Legge <rikard.legge@gmail.com>",
+  "license": "Rikard Legge"
+}
