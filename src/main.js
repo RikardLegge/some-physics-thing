@@ -38,6 +38,7 @@ function init() {
   engine = Engine.create();
 
   addRectangle(0,0,100,100);
+  addRectangle(0,-200,100,100);
   addRectangle(0,100,200,20, {physics:{ isStatic: true }});
 
   Engine.run(engine);
